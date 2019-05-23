@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+}
+
+
+.sidebar{
+width: 100px;
+height: 100%;
+position: fixed;
+display: inline-block;
+background-color: black;
+border-radius: 2px;
+}
+
+.pentacle{
+    height: 100px;
+    width: 100px;
+}
+
+.main{
+    padding-left: 100px;
+}
+
+ul{
+    list-style: none;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+  
+}
+
+li{
+    list-style: none;
+    padding: 12px 0px 0px 0px;
+}
+
+.sidebar a{
+    text-decoration: none;
+    color: whitesmoke;
+    display: inline;
+}
+
